@@ -1,0 +1,155 @@
+2019/04/19 16:28:39 ReceiveVerifiedBlock  cc58
+2019/04/19 16:28:41 ReceiveVerifiedBlock  cea6
+2019/04/19 16:28:41 TransactionInBlock d75dd3428812077e94c4a0703bb2aed9
+2019/04/19 16:28:41 TransactionInBlock 3924ba00ffd55c59a1aa62eae5fc282f
+2019/04/19 16:28:41 TransactionInBlock 567a60697fed27f6d060c154d7d8a3a7
+2019/04/19 16:28:41 TransactionInBlock 4ffb6f96bddcdd4fd97f9ee8ec02149d
+2019/04/19 16:28:41 TransactionInBlock ca210ef02af291644cef63ccdc6800c0
+2019/04/19 16:28:41 TransactionInBlock 9c66f7e6a91fb5adb2590d5aa08522be
+2019/04/19 16:28:41 TransactionInBlock 636a5b3dc381d128ec9e51290fc8af24
+2019/04/19 16:28:41 TransactionInBlock 17e074e6a6d90340398acb08841521c6
+2019/04/19 16:28:41 TransactionInBlock b68fc4b79b4c700a2766f29f9d63378a
+2019/04/19 16:28:41 TransactionInBlock ab8ed680e5d6424c78c6e0f4e914e831
+2019/04/19 16:28:41 TransactionInBlock f8da01a3af5bb0dfaecf388ae7d0b95a
+2019/04/19 16:28:43 ReceiveVerifiedBlock  92cd
+2019/04/19 16:28:43 TransactionInBlock 00b38ef4270005da8d41675f1623b8c1
+2019/04/19 16:28:43 TransactionInBlock fa0ed7bd1e817c7e2bb4932e57a66317
+2019/04/19 16:28:43 TransactionInBlock 0ac98bf1ab6954f59fab311838b96107
+2019/04/19 16:28:43 TransactionInBlock ffad6586b9e46d757d97487281398a5f
+2019/04/19 16:28:44 ReceiveVerifiedBlock  85e9
+2019/04/19 16:28:44 ReceiveVerifiedBlock  9c71
+2019/04/19 16:28:44 TransactionInBlock 13c51fb2371ec8449e0da4356ac111ca
+2019/04/19 16:28:45 ReceiveVerifiedBlock  caf1
+2019/04/19 16:28:47 ReceiveVerifiedBlock  406a
+2019/04/19 16:28:50 ReceiveVerifiedBlock  1f5d
+2019/04/19 16:28:50 TransactionInBlock 5f5c48420553ec28cd66f787cd556894
+2019/04/19 16:28:50 TransactionInBlock c774d769c6429333fd0a643156eeb446
+2019/04/19 16:28:59 ReceiveVerifiedBlock  2599
+2019/04/19 16:28:59 TransactionInBlock 3ae11f12b31d8247d8627c89cbdce768
+2019/04/19 16:29:00 ReceiveVerifiedBlock  c3a2
+2019/04/19 16:29:00 TransactionInBlock 55cb764abc14eee19c07f5fc0d388961
+2019/04/19 16:29:00 TransactionInBlock 52743d925908a919171b4c18576ee809
+2019/04/19 16:29:01 ReceiveVerifiedBlock  386e
+2019/04/19 16:29:05 ReceiveVerifiedBlock  b887
+2019/04/19 16:29:06 ReceiveVerifiedBlock  c2d2
+2019/04/19 16:29:06 TransactionInBlock c6c234a48f552d7f877d8413af29174f
+2019/04/19 16:29:07 ReceiveVerifiedBlock  a6e9
+2019/04/19 16:29:07 ReceiveVerifiedBlock  08f6
+2019/04/19 16:29:07 TransactionInBlock 17d87847513b766050bda638c642a5d4
+2019/04/19 16:29:09 ReceiveVerifiedBlock  4432
+2019/04/19 16:29:09 TransactionInBlock 5dd3859a8e9edc067c063e294d114239
+2019/04/19 16:29:11 ReceiveVerifiedBlock  7665
+2019/04/19 16:29:15 ReceiveVerifiedBlock  bc52
+2019/04/19 16:29:15 ReceiveVerifiedBlock  aa22
+2019/04/19 16:29:17 ReceiveVerifiedBlock  8e44
+2019/04/19 16:29:17 ReceiveVerifiedBlock  eccc
+2019/04/19 16:29:17 TransactionInBlock 06863d79cfdd0390b98257c9c113540f
+2019/04/19 16:29:17 TransactionInBlock 605e381330aeb1e1b534873b4330f4a8
+2019/04/19 16:29:17 TransactionInBlock 122b74949ecc083ff5ecad1483e56e96
+2019/04/19 16:29:20 ReceiveVerifiedBlock  fd4a
+2019/04/19 16:29:21 ReceiveVerifiedBlock  700e
+2019/04/19 16:29:29 ReceiveVerifiedBlock  3821
+2019/04/19 16:29:29 ReceiveVerifiedBlock  6783
+2019/04/19 16:29:29 TransactionInBlock 45becedf5c623541cf21b12c25a5a5cb
+2019/04/19 16:29:31 ReceiveVerifiedBlock  ebb0
+2019/04/19 16:29:33 ReceiveVerifiedBlock  d36f
+2019/04/19 16:29:33 TransactionInBlock 7c4c31fad851120263b0409ab9f2a678
+2019/04/19 16:29:35 CreateInitialBlock  2fff
+2019/04/19 16:29:35 TransactionInBlock 76bf0c1af044201d4a4dc03f9a904944
+2019/04/19 16:29:35 BroadBlockIndex:  24   2fff
+2019/04/19 16:29:37 ReceiveVerifiedBlock  cf75
+2019/04/19 16:29:43 ReceiveVerifiedBlock  3baf
+2019/04/19 16:29:43 TransactionInBlock b5c960ea0eb8e402cbb5bc436e6e20d1
+2019/04/19 16:29:44 ReceiveVerifiedBlock  15a2
+2019/04/19 16:29:44 TransactionInBlock 2887021f30de20b5f4bc5ba44f321de1
+2019/04/19 16:29:44 TransactionInBlock a0f1dd24b0eb7fdce0efbefd8742114c
+2019/04/19 16:29:44 TransactionInBlock 2dbff6cbbb31362affb68f4bbc0a30c0
+2019/04/19 16:29:45 ReceiveVerifiedBlock  5261
+2019/04/19 16:29:45 ReceiveVerifiedBlock  b77b
+2019/04/19 16:29:46 ReceiveVerifiedBlock  b70b
+2019/04/19 16:29:47 ReceiveVerifiedBlock  5511
+2019/04/19 16:29:47 ReceiveVerifiedBlock  abba
+2019/04/19 16:29:49 ReceiveVerifiedBlock  e6a0
+2019/04/19 16:29:49 ReceiveVerifiedBlock  53dd
+2019/04/19 16:29:49 TransactionInBlock c5815ae5cf6ec6c86fb644f22937803f
+2019/04/19 16:29:50 ReceiveVerifiedBlock  3ae3
+2019/04/19 16:29:51 ReceiveVerifiedBlock  fb84
+2019/04/19 16:29:53 ReceiveVerifiedBlock  e983
+2019/04/19 16:29:53 ReceiveVerifiedBlock  b4d1
+2019/04/19 16:29:55 ReceiveVerifiedBlock  8fc2
+2019/04/19 16:29:57 ReceiveVerifiedBlock  1525
+2019/04/19 16:29:57 TransactionInBlock 1c7df8eb8bb9749fabbf7232925558da
+2019/04/19 16:29:57 TransactionInBlock b58c2da8c1e3f3dbe31eeae639232f8b
+2019/04/19 16:29:57 TransactionInBlock c4cd37325f1c36f679ca8477692dd178
+2019/04/19 16:29:57 TransactionInBlock 77c023fb83384fc0074c4a3dd24f8ce2
+2019/04/19 16:29:58 ReceiveVerifiedBlock  de88
+2019/04/19 16:29:58 ReceiveVerifiedBlock  eba4
+2019/04/19 16:29:58 ReceiveVerifiedBlock  3d04
+2019/04/19 16:30:02 ReceiveVerifiedBlock  fc24
+2019/04/19 16:30:04 ReceiveVerifiedBlock  1ad4
+2019/04/19 16:30:04 ReceiveVerifiedBlock  b949
+2019/04/19 16:30:05 ReceiveVerifiedBlock  5044
+2019/04/19 16:30:05 ReceiveVerifiedBlock  a5b3
+2019/04/19 16:30:06 ReceiveVerifiedBlock  b4f4
+2019/04/19 16:30:08 ReceiveVerifiedBlock  1e59
+2019/04/19 16:30:08 ReceiveVerifiedBlock  f995
+2019/04/19 16:30:08 TransactionInBlock 65f82e2232b39b1d3ce7fbea1f3571c9
+2019/04/19 16:30:08 TransactionInBlock 63568a388754e6afce48d9aeca6e6952
+2019/04/19 16:30:09 ReceiveVerifiedBlock  cd34
+2019/04/19 16:30:11 ReceiveVerifiedBlock  5dbd
+2019/04/19 16:30:11 TransactionInBlock 9a417798c88befafbc27cc5060e165b8
+2019/04/19 16:30:12 ReceiveVerifiedBlock  3c1e
+2019/04/19 16:30:12 ReceiveVerifiedBlock  3189
+2019/04/19 16:30:12 ReceiveVerifiedBlock  ba51
+2019/04/19 16:32:57 CreateInitialBlock  7a5a
+2019/04/19 16:32:57 BroadBlockIndex:  44   7a5a
+2019/04/19 16:33:13 Gossip lengthOfTransactions  78
+2019/04/19 16:33:13 BlockChain lengthOfTransactions  42
+2019/04/19 16:33:13 height is: 44
+2019/04/19 16:33:13 RealBalance  map[7:961 2:2749 1:3603 5:6175 8:352 3:1342 10:456 0:999999977569 4:404 13:486 6:2691 9:831 14:288 11:2092]
+2019/04/19 16:33:13 bandwidth  1877460
+2019/04/19 16:33:13 level 1 : cc58
+2019/04/19 16:33:13 level 2 : cea6
+2019/04/19 16:33:13 level 3 : 92cd
+2019/04/19 16:33:13 level 4 : 85e9->9c71
+2019/04/19 16:33:13 level 5 : caf1
+2019/04/19 16:33:13 level 6 : 406a->5044
+2019/04/19 16:33:13 level 7 : 1f5d
+2019/04/19 16:33:13 level 8 : 2599->3189
+2019/04/19 16:33:13 level 9 : c3a2->a5b3
+2019/04/19 16:33:13 level 10 : 386e
+2019/04/19 16:33:13 level 11 : b887
+2019/04/19 16:33:13 level 12 : c2d2
+2019/04/19 16:33:13 level 13 : a6e9->08f6
+2019/04/19 16:33:13 level 14 : 4432->7665
+2019/04/19 16:33:13 level 15 : bc52->aa22
+2019/04/19 16:33:13 level 16 : 8e44
+2019/04/19 16:33:13 level 17 : eccc
+2019/04/19 16:33:13 level 18 : fd4a
+2019/04/19 16:33:13 level 19 : 700e
+2019/04/19 16:33:13 level 20 : 3821->cd34->5dbd
+2019/04/19 16:33:13 level 21 : 6783
+2019/04/19 16:33:13 level 22 : ebb0
+2019/04/19 16:33:13 level 23 : d36f
+2019/04/19 16:33:13 level 24 : 2fff->cf75
+2019/04/19 16:33:13 level 25 : 3baf
+2019/04/19 16:33:13 level 26 : 15a2
+2019/04/19 16:33:13 level 27 : 5261
+2019/04/19 16:33:13 level 28 : b77b
+2019/04/19 16:33:13 level 29 : b70b->f995
+2019/04/19 16:33:13 level 30 : 5511->b4f4
+2019/04/19 16:33:13 level 31 : abba
+2019/04/19 16:33:13 level 32 : e6a0
+2019/04/19 16:33:13 level 33 : 53dd
+2019/04/19 16:33:13 level 34 : 3ae3
+2019/04/19 16:33:13 level 35 : fb84->e983
+2019/04/19 16:33:13 level 36 : b4d1
+2019/04/19 16:33:13 level 37 : 8fc2->3c1e
+2019/04/19 16:33:13 level 38 : 1525
+2019/04/19 16:33:13 level 39 : de88
+2019/04/19 16:33:13 level 40 : eba4
+2019/04/19 16:33:13 level 41 : 3d04
+2019/04/19 16:33:13 level 42 : fc24
+2019/04/19 16:33:13 level 43 : 1ad4->b949->1e59
+2019/04/19 16:33:13 level 44 : ba51->7a5a
+2019/04/19 16:33:13 splits  3
