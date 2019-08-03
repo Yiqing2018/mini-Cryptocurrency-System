@@ -91,35 +91,35 @@ type Block struct {
 
 * **Transaction Broadcast**  
 
-**push** the newest transaction to its random neighbors
-when receiving a new transaction from Introduction Service, the node will forward this transaction to its neighbors randomly.   
+**push** the newest transaction to its random neighbors  
 
-This operation can guarantee that the transaction from Introduction Service will not be lost when this node is not the neighbor of any other nodes.  
+When received new transactions from Introduction Service, the node will forward this transaction to its neighbors randomly, which can guarantee that the transaction from Introduction Service will not be lost when this node is not the neighbor of any other nodes.  
 
-**pull** history transaction list from its random neighbors: 
-the node will send "transaction request" to its neighbors randomly in order to merge the transaction list with the transactions from other nodes.  
+**pull** history transaction list from its random neighbors  
 
-This operation can guarantee that each node will update its transaction list as a quick rate.  
+the node will send "transaction request" to its neighbors randomly in order to "merge" the transaction list with the transactions from other nodes.  
+
+This operation can guarantee that each node will update its transaction list at a quick rate.  
 
 * **Neighbor Update**  
 
-**pull** the neighbor(s) from Introduction Service: 
+**pull** the neighbor(s) from Introduction Service  
+
 the newly joined node will get the introduced neighbors from IntroductionService after send CONNECT message.
 
-periodically query neighbor for neighbour’s neighbours
-pull the neighbor list from its random neighbors and merge with original neighbor list: as the pull part of the transaction broadcast, the node will send the request to its neighbors randomly in order to merge the neighbor list with the neighbors from other nodes.  
+periodically **pull**  neighbor for neighbour’s neighbours  
 
-This operation can also guarantee the global neighbor list is updated at a quick rate.
+pull the neighbor list from its random neighbors and merge with original neighbor list, and also the node could take adavantage of  transaction broadcast, we can receive transaction information along with neighbour address! 
 
 * **Node Termination**
 
 Whenever receiving a QUIT/DIE message from IntroductionService, the receiver would quit all processes and die immediately.
-If IntroductionService fails, all nodes will continue broadcasting message to other nodes.
+If IntroductionService fails, all nodes will continue broadcasting message to other nodes for a limited time(hard coded in our project)
 
 * **Parameter Selection**  
 
 You may **NEED** modify some paramters based on the number of the nodes
-For example, when a node tries to pull neighbor list, how many times for sending request to others? 15 rounds for 100 nodes might be appropriate.
+For example, when a node tries to pull neighbor list, how many times for sending request to others? 15 rounds for 100 nodes might be ideal.
 
 ### Transaction Verification
 
